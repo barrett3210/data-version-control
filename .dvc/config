@@ -1,0 +1,5 @@
+[core]
+    remote = remote_storage
+    autostage = true
+['remote "remote_storage"']
+    url = /Users/linda/pythonproj/practice_structure_241002/dvc_remote
